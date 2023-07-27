@@ -40,3 +40,21 @@ nav{
 .hero img {
     width: 300px;
 }
+
+/* About us section start  */
+.about-us{
+    
+    display: flex;
+    flex-direction: row-reverse;
+    color: white;
+    align-items: center;
+    justify-content: space-around;
+    padding-left: 30px;
+    padding-right: 30px;
+    height: 100vh;
+    color: black;
+}
+.about-us img{
+    width: 300px;
+    
+}
