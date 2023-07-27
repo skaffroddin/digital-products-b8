@@ -1,0 +1,26 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+ 
+nav{
+    background-color: bisque;
+}
+.logo img {
+    width: 200px;
+}
+.header-main{
+    display: flex;
+    list-style: none;
+    justify-content: space-between;
+    align-items: center;
+    height: 64px;
+    padding: 20px;
+}
+.items{
+    display: flex;
+   
+}
+.items li {
+    margin-right: 15px;
+}
